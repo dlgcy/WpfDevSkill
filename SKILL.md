@@ -1,5 +1,7 @@
-
-
+---
+name: wpf-project-dev
+description: "WPF 项目开发规范技能（MVVM + WPFTemplateLib）：从零创建 WPF 项目、将 Python/其他语言项目移植为 C#/WPF、为已有 WPF 项目补充 ViewModel/View/样式/依赖。遵循 MVVM 模式、NuGet 引入第三方库、SimpleBindableBase 通知属性、库默认样式等最佳实践。"
+---
 # WPF 项目开发规范（MVVM + WPFTemplateLib）
 
 本技能沉淀自 GitPatchEditorWpf 实战项目（Git Patch 编辑工具，由 Python/tkinter 移植为 C#/WPF）。目标是让 WPF 项目开发保持一致的架构与最佳实践，避免踩已知的坑。

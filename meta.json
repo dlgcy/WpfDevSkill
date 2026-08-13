@@ -1,0 +1,15 @@
+{
+  "author": "dlgcy",
+  "description": "WPF 项目开发规范技能（MVVM + WPFTemplateLib）：从零创建 WPF 项目、将 Python/其他语言项目移植为 C#/WPF、为已有 WPF 项目补充 ViewModel/View/样式/依赖。遵循 MVVM 模式、NuGet 引入第三方库、SimpleBindableBase 通知属性、库默认样式等最佳实践。",
+  "display_description": "WPF 项目开发规范：MVVM 架构、WPFTemplateLib 最佳实践、Python 移植 C#/WPF 避坑指南",
+  "display_name": "wpf-project-dev",
+  "name": "wpf-project-dev",
+  "type": "开发工具",
+  "version": "1.0.0",
+  "scope": ["main"],
+  "use_cases": [
+    "帮我创建一个 WPF 项目，用 MVVM 模式",
+    "把 Python 的 Git Patch 编辑器移植成 C# WPF 项目",
+    "给已有 WPF 项目补上 ViewModel 和默认样式"
+  ]
+}
