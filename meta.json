@@ -5,11 +5,12 @@
   "display_name": "wpf-project-dev",
   "name": "wpf-project-dev",
   "type": "开发工具",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scope": ["main"],
   "use_cases": [
     "帮我创建一个 WPF 项目，用 MVVM 模式",
     "把 Python 的 Git Patch 编辑器移植成 C# WPF 项目",
-    "给已有 WPF 项目补上 ViewModel 和默认样式"
+    "给已有 WPF 项目补上 ViewModel 和默认样式",
+	"帮我创建一个桌面软件"
   ]
 }
