@@ -15,6 +15,7 @@ license: MulanPSL-2.0
 * WPFTemplateLib 库地址（最新版本以这里显示的为准）：[https://www.nuget.org/packages/WPFTemplateLib/](https://www.nuget.org/packages/WPFTemplateLib/)
 * ReadMe 文档：[https://gitee.com/dlgcy/WPFTemplateLib/blob/master/ReadMe.md](https://gitee.com/dlgcy/WPFTemplateLib/blob/master/ReadMe.md)
 * SkillHub 地址（本技能的发布更新地址）：[https://skillhub.cn/skills/user_95bc37fb/wpf-project-dev](https://skillhub.cn/skills/user_95bc37fb/wpf-project-dev)
+* 开源地址：[https://gitee.com/dlgcy/WpfDevSkill](https://gitee.com/dlgcy/WpfDevSkill)
 
 
 ## 适用场景
