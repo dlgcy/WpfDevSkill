@@ -5,7 +5,7 @@
   "display_name": "wpf-project-dev",
   "name": "wpf-project-dev",
   "type": "开发工具",
-  "version": "1.1.0",
+  "version": "1.1.4",
   "scope": ["main"],
   "use_cases": [
     "帮我创建一个 WPF 项目，用 MVVM 模式",
